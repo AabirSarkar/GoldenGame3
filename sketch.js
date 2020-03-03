@@ -23,7 +23,7 @@ function preload(){
 
     
     
-    obstacle1 = loadImage("Images/trap1.png");
+    obstacle1 = loadImage("Images/Trap1.png");
     obstacle2 = loadImage("Images/trap2.png");
     obstacle3 = loadImage("Images/trap3.png");
 
